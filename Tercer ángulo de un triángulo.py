@@ -1,3 +1,7 @@
+'''
+cual es el tercer angulo de un triangulo
+'''
+
 def calcular_tercer_angulo(angulo1, angulo2):
     # Validar que los ángulos sean enteros positivos
     if angulo1 <= 0 or angulo2 <= 0:
