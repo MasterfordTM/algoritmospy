@@ -1,3 +1,8 @@
+'''
+comvertidor de usd a yen
+'''
+
+
 def convertir_usd_a_cny(cantidad_usd):
     # Tasa de cambio (puedes actualizar esta tasa según el mercado actual)
     tasa_cambio = 6.45  # Ejemplo: 1 USD = 6.45 CNY (esta tasa puede variar)
