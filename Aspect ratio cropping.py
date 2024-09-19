@@ -1,3 +1,8 @@
+'''
+Recorte de relación de aspecto
+'''
+
+
 def convertir_a_16_9(resolucion_x, resolucion_y):
     # Verificar que la altura (Y) sea válida
     if resolucion_y <= 0:
