@@ -1,3 +1,7 @@
+'''
+cual es el puntuaje de un juador en un partido de nba
+'''
+
 def extrapolate_ppg(ppg, mpg):
     # Return 0 if ppg is 0
     if ppg == 0:
