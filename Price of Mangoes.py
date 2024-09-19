@@ -1,3 +1,7 @@
+'''
+cuanto cuesta un mango
+'''
+
 def calcular_costo_total(cantidad, precio_por_mango):
     # Validar entradas
     if cantidad < 0 or precio_por_mango < 0:
