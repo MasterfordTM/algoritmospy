@@ -1,4 +1,6 @@
-
+'''
+en cuanto tiempo tomaria agua para hidratarme
+'''
 
 import math
 
