@@ -1,5 +1,5 @@
 '''
-en cuanto tiempo tomaria agua para hidratarme
+calcular rangos de edad
 '''
 
 import math
