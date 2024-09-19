@@ -1,3 +1,7 @@
+'''
+redondear puntos decimales
+'''
+
 def redondear_a_dos_decimales(numero):
     # Redondear el número a dos decimales
     return f"{round(numero, 2):.2f}"
